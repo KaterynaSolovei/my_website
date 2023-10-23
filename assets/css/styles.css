@@ -13790,7 +13790,7 @@ html {
  margin-left: 10px;
 }
 
-.content {
+.background-color {
   background-color: #bcd0c7;
 }
 
@@ -13829,4 +13829,19 @@ color: #055160;
   }
 }
 
+.navbar {
+  position: sticky;
+}
+
+.contact-me {
+  outline: #000;
+}
+
+.gradient {
+  background: linear-gradient(135deg, #055160 0%, #bcd0c7 100%);
+}
+
+.t-size-m{
+  font-size: 12px;
+}
 /**/
