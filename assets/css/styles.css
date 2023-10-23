@@ -13555,7 +13555,7 @@ html {
 
 .profile .profile-img {
   height: 80vw;
-  max-height: 45rem;
+  max-height: 35rem;
   position: absolute;
   bottom: 0;
   left: 50%;
@@ -13844,4 +13844,9 @@ color: #055160;
 .t-size-m{
   font-size: 12px;
 }
+
+.btn-primary{
+  border-color: #055160;
+}
+
 /**/
