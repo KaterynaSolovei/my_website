@@ -13848,5 +13848,19 @@ color: #055160;
 .btn-primary{
   border-color: #055160;
 }
+.btn{
+  border-color: #055160;
+}
 
+.st {
+  color: white;
+  text-decoration: none;
+}
+.brand-link{
+  text-decoration: none;
+  color: #055160;
+}
+.brand-link:hover {
+ color: #e6c2d580;
+}
 /**/
