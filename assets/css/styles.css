@@ -13867,4 +13867,33 @@ color: #055160;
 .text-main {
   font-size: 25px;
 }
+
+.email {
+  text-align: center;
+  font-weight: bolder !important;
+  margin-bottom: 40px;
+}
+
+
+@media (min-width: 576px) {
+  .card {
+    display: flex;
+    flex-direction: column-reverse;
+    margin-top: 15px;
+  }
+}
+
+@media (min-width: 768px) {
+  .card {
+  }
+}
+
+@media (min-width: 992px) {
+  .card {
+}
+}
+@media (min-width: 1200px) {
+  .card {
+}
+}
 /**/
